@@ -1,0 +1,4 @@
+ID,Name,Value,Category,Timestamp
+1,Item1,10.5,CategoryA,2023-01-01T12:00:00
+2,Item2,20.75,CategoryB,2023-01-02T14:30:00
+3,Item3,15.25,CategoryA,2023-01-03T09:15:00
