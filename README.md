@@ -1,2 +1,2 @@
-# GO-Templates
+# goTemplates
 GO/Golang Starter templates written in powershell
